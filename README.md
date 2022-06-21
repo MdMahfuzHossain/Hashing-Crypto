@@ -1,4 +1,5 @@
 # 🔥Hashing-Crypto ⤵️
+![IMG_7040](https://user-images.githubusercontent.com/94301241/174880818-13e56f93-0825-4a74-af43-cd4382ad0254.jpg)
 ## Plaintext -
 
       Data before encryption or hashing, often text but not always as it could be a photograph or other file instead.
