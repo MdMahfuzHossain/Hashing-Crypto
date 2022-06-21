@@ -48,7 +48,7 @@
             I used https://hashes.com/en/tools/hash_identifier this website this is sha512crypt $6$ hash.
             I saw https://hashcat.net/wiki/doku.php?id=example_hashes this website Sha512crypt mode in hashcat is 1800
             Then I used this command:
-            hashcat -m 3200 hash1.txt /usr/share/wordlists/rockyou.txt
+            hashcat -m 1800 hash3.txt /usr/share/wordlists/rockyou.txt
       4. Bored of this yet? Crack this hash: b6b0d451bbf6fed658659a9e7e5598fe
       Solve:
             You can use this https://hashes.com/en/decrypt/hash website to crack this hash value.
