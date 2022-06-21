@@ -1,6 +1,6 @@
 # 🔥Hashing-Crypto ⤵️
 ![IMG_7040](https://user-images.githubusercontent.com/94301241/174880818-13e56f93-0825-4a74-af43-cd4382ad0254.jpg)
-# Key Terms 
+# 🔑Key Terms 
       Plaintext - Data before encryption or hashing, often text but not always as it could be a photograph or other file instead.
       Encoding - This is NOT a form of encryption, just a form of data representation like base64 or hexadecimal. Immediately reversible.
 
@@ -12,26 +12,26 @@
 
 
 
-# Hash collision URL
+# 💥Hash collision URL
       1. https://www.mscs.dal.ca/~selinger/md5collision/
       2. https://shattered.io/
       
-# Automated hash recognition and cracking tools 
+# 🧰Automated hash recognition and cracking tools 
       1. hashcat
       2. haiti
       3. hash-identifier
       4. hashid
       4. john the ripper
       
-# Automated hash recognition and cracking tools URL
+# 🧨Automated hash recognition and cracking tools URL
       1. https://crackstation.net/
       2. https://hashes.com/en/decrypt/hash
       3. https://www.tunnelsup.com/hash-analyzer/
       4. https://md5hashing.net/
       5. https://hashcat.net/wiki/doku.php?id=example_hashes
       
-# Password Cracking 
-      1. Crack this hash: $2a$06$7yoU3Ng8dHTXphAg913cyO6Bjs3K5lBnwq5FJyA6d01pMSrddr1ZG
+#    👨‍🚒Password Cracking 
+     1. Crack this hash: $2a$06$7yoU3Ng8dHTXphAg913cyO6Bjs3K5lBnwq5FJyA6d01pMSrddr1ZG
       Solve: 
             I used https://www.tunnelsup.com/hash-analyzer/ this website this is bcrypt hash.
             In hashcat tool, bcrypt hash code is 3200. You can see this hash code with “hashcat –help” command
